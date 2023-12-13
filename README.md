@@ -2,6 +2,14 @@
 
 
 ## What is this project about?
+
+It' a copy of Sasa's great work for a DIY filament dryer.  His project worked well, but I couldn't help myself from adding a bunch of bells and whistles; namely an OLED display and some additional sensors. While this worked for me, your mileage will definitely vary.
+
+It's more than likely that I won't make any more updates to this, but I figured other folks on the Internets and YouTubes might want to see a different take on Sasa's work.
+
+Good luck!
+
+## What is this project really about?
 [![DIY WiFi Enabled Filament Dry Box](http://img.youtube.com/vi/txF2oQPIjb4/0.jpg)](http://www.youtube.com/watch?v=txF2oQPIjb4 "DIY WiFi Enabled Filament Dry Box")
 
 Above video shows the finished DryBox, how it works and motivation behind some of the design decisions.
